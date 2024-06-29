@@ -1,0 +1,33 @@
+.tool {
+    background: #d6bfca21;
+    padding: 40px;
+}
+
+.btn-tool {
+    background: #2196F3;
+    padding: 9px 25px;
+    border: 1px solid#2196F3;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.btn-tool:hover {
+  background-color: #1061a4;
+  border:1px solid#2196F3 ;
+  color: #fff;
+}
+
+.btn-tool_reset {
+    background: red;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 9px 25px;
+    font-weight: 700;
+    border: 1px solid #f00;
+}
+.btn-tool_reset:hover {
+    background: rgb(201, 8, 8);
+    border: 1px solid rgb(174, 9, 9);
+    color: #fff;
+
+  }
